@@ -1,0 +1,27 @@
+header {
+    color: hsl(240, 73%, 23%);
+    font-size: larger;
+    font-style: initial;
+    text-align: center;
+
+}
+
+#sri {
+    text-align: center;
+}
+
+.ss {
+    color: rgb(20, 20, 96);
+}
+
+.back {
+    display: flex;
+    justify-content: center;
+
+}
+
+.ground 
+{
+background-color: rgb(57, 57, 151);
+width: 491px;
+}
